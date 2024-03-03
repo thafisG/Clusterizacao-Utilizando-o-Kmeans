@@ -6,7 +6,7 @@ O conjunto de dados Iris foi usado no artigo clássico de RA Fisher de 1936, The
 
 Inclui três espécies de íris com 50 amostras cada, bem como algumas propriedades de cada flor.
 
-As colunas neste conjunto de dados são:
+## As colunas neste conjunto de dados são:
 
 - Id
 
